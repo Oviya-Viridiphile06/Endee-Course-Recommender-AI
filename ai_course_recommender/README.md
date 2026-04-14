@@ -113,4 +113,5 @@ ai-course-recommender/
 
 # 📊 Sample Output
 
-![Description](images/Course recommendation.png)
+![Course Recommendation](images/Course_recommendation.png)
+
