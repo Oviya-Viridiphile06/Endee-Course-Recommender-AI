@@ -114,4 +114,5 @@ ai-course-recommender/
 # 📊 Sample Output
 
 ![Course Recommendation](images/Course_recommendation.png)
-
+# ✍🏼 AUTHOR
+OVIYA MAHESWARI N
